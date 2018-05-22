@@ -10,8 +10,8 @@ window.onload = function (){
         txt.innerHTML = "<h2>Git & Github te amamos </h2>";
     })
 
-    btnDos.addEventListener("click", function( )
-        //txtDos.innerHTML = '';
+    btnDos.addEventListener("click", function(){
+       //txtDos.innerHTML = '';
     txtDos.classList.add("disappear");
-)
+    })
 }
